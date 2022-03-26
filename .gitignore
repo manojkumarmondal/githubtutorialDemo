@@ -2,4 +2,5 @@ error.log
 *.log
 # dir/
 /dir
-# static/dir
+static/dir
+.text
